@@ -1,0 +1,139 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/davecgh/go-spew",
+			"repository": "https://github.com/davecgh/go-spew",
+			"vcs": "git",
+			"revision": "dce690a33ebe33040a7a2ffeb96dd200060f3fca",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/builder/dockerfile/command",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "/builder/dockerfile/command",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/builder/dockerfile/parser",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "builder/dockerfile/parser",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/pkg/mount",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "pkg/mount",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/pkg/system",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "pkg/system",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/github.com/Microsoft/go-winio",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/github.com/Microsoft/go-winio",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/github.com/containerd/continuity/pathdriver",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/github.com/containerd/continuity/pathdriver",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/github.com/docker/go-units",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/github.com/docker/go-units",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/github.com/pkg/errors",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/github.com/pkg/errors",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/github.com/sirupsen/logrus",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/github.com/sirupsen/logrus",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/golang.org/x/crypto/ssh/terminal",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/golang.org/x/crypto/ssh/terminal",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/golang.org/x/sys/unix",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/golang.org/x/sys/unix",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/docker/docker/vendor/golang.org/x/sys/windows",
+			"repository": "https://github.com/docker/docker",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/golang.org/x/sys/windows",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/moby/moby/builder/dockerfile/parser",
+			"repository": "https://github.com/moby/moby",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "/builder/dockerfile/parser",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/moby/moby/vendor/github.com/pkg/errors",
+			"repository": "https://github.com/moby/moby",
+			"vcs": "git",
+			"revision": "1c4fad8135b52a8a6405aef897712c4ca7a6d168",
+			"branch": "master",
+			"path": "vendor/github.com/pkg/errors",
+			"notests": true
+		}
+	]
+}
