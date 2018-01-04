@@ -2,9 +2,7 @@
 
 Install servers by using a Dockerfile
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/Ud7o7ynwzNcFZb7zDdSAkbq2/titpetric/undock'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/Ud7o7ynwzNcFZb7zDdSAkbq2/titpetric/undock.svg' />
-</a>
+
 
 ## Requirements
 
